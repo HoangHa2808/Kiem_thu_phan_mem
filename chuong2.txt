@@ -1,0 +1,27 @@
+Manual Testing Process
+Step1 : Requirement Analysis: Phân tích yêu cầu
+Step2: Test Plan Creation: Tạo kế hoạch thử nghiệm
+Step3: Test Case Creation: Tạo trường hợp thử nghiệm: nêu ra các trường hợp
+Step4: Test Case Execution: Thực thi ca kiểm thử
+Step5: Defect Logging: Ghi nhật ký lỗi
+Step6: Defect Fix ReVerfication: Kiểm tra sửa lỗi
+
+Goal of Manual Testing
+
+Types of Manual Testing:
+Black box
+White Box
+Unit Testing
+System Testing
+Integration Testing
+Acceptance Testing
+
+Why Autometed Testing:
+ - Có quá nhiều dữ liệu, có nhiều chi tiết thì sử dụng tự động sẽ khả thi hơn, 
+nên kiểm thử thủ công những phần quan trọng
+ 
+
+Test Scenario:
+- Test Prioritization
+  + Check Login
+  + Check

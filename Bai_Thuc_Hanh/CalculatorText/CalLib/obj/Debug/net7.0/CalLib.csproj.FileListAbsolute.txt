@@ -1,0 +1,12 @@
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalLib\bin\Debug\net7.0\CalLib.deps.json
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalLib\bin\Debug\net7.0\CalLib.dll
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalLib\bin\Debug\net7.0\CalLib.pdb
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalLib\obj\Debug\net7.0\CalLib.csproj.AssemblyReference.cache
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalLib\obj\Debug\net7.0\CalLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalLib\obj\Debug\net7.0\CalLib.AssemblyInfoInputs.cache
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalLib\obj\Debug\net7.0\CalLib.AssemblyInfo.cs
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalLib\obj\Debug\net7.0\CalLib.csproj.CoreCompileInputs.cache
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalLib\obj\Debug\net7.0\CalLib.dll
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalLib\obj\Debug\net7.0\refint\CalLib.dll
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalLib\obj\Debug\net7.0\CalLib.pdb
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalLib\obj\Debug\net7.0\ref\CalLib.dll

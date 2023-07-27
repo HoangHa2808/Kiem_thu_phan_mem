@@ -1,0 +1,11 @@
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalculatorText\bin\Debug\CalculatorText.exe.config
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalculatorText\bin\Debug\CalculatorText.exe
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalculatorText\bin\Debug\CalculatorText.pdb
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalculatorText\obj\Debug\CalculatorText.csproj.AssemblyReference.cache
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalculatorText\obj\Debug\CalculatorText.csproj.SuggestedBindingRedirects.cache
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalculatorText\obj\Debug\CalculatorText.Calculator.resources
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalculatorText\obj\Debug\CalculatorText.Properties.Resources.resources
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalculatorText\obj\Debug\CalculatorText.csproj.GenerateResource.cache
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalculatorText\obj\Debug\CalculatorText.csproj.CoreCompileInputs.cache
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalculatorText\obj\Debug\CalculatorText.exe
+D:\Kiem_thu_phan_mem\Bai_Thuc_Hanh\CalculatorText\CalculatorText\obj\Debug\CalculatorText.pdb

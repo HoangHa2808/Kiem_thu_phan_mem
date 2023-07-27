@@ -1,0 +1,10 @@
+1. Security : kiểm thử bảo mật
+2. Load : kiểm thử tải
+3. Performance: kiểm thử hiệu năng
+4. Scalability : Kiểm thử khả năng mở rộng
+5. Resilience: kiểm thử tính bền bỉ
+6.
+7.
+8.
+9.
+10.

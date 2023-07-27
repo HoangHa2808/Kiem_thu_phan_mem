@@ -1,0 +1,26 @@
+Informal review: - là quá trình đánh giá mà không cần hồ sơ cuộc họp đang lưu trữ, cũng không cần ghi chép lại nội dung cuộc họp. Nó được thực hiện ở bất cứ 1 tài liệu nào hay dễ hiểu hơn là : Phát hiện lỗi tiềm năng không dự vào 1 process(tài liệu) chính thức nào
+			- chủ yếu được thực hiện giữa 2 người ở bất kỳ đâu có thể là quán cà phê, căng-ten,...
+			- lợi ích: Không tốn kém
+					Tiết kiệm thời gian
+					Không yêu cầu đào tạo người tham gia
+					Không cần tài liệu hay lưu trữ hồ sơ
+Hướng dẫn (Walkthrough): Tác giả hướng dẫn, giải thích (chuyển giao kiến thức) với những người tham gia thông qua tài liệu và thông qua quá trình tư duy của họ để đạt được một sự hiểu biết chung và thu thập phản hồi liên quan đến chủ đề theo tài liệu hay nói cách khác là : Tìm lỗi, cải thiện sản phẩm phần mềm, xem xét các triển khai thay thế, đánh giá sự phù hợp với các thông số kỹ thuật. Cá nhân có thể có hoặc không chuẩn bị trước khi review
+				Các cuộc họp do các tác giả hướng dẫn, thường có người ghi chép riêng.
+				Các kịch bản và chạy thử có thể được dùng để xác nhận nội dung.
+				Việc chuẩn bị cuộc họp sẵn riêng cho người đánh giá là không bắt buộc
+Đánh giá kỹ thuật (Technical Review):mục đích chính: Đạt được sự đồng thuận, phát hiện lỗi tiềm năng
+	Đánh giá kỹ thuật là một cuộc thảo luận tập trung vào việc đạt được sự đồng thuận nội dung kỹ thuật của một tài liệu.
+	Được dẫn dắt bởi moderator hoặc người có kiến thức kỹ thuật với sự tham gia của các chuyên gia như: Thiết kế, người dùng chính...
+	Cần chuẩn bị một Review Report bao gồm: danh sách các phát hiện defect, cách giải quyết...
+	Mục đích chính: thảo luận, đưa ra quyết định, đánh giá sự thay thế, tìm defect, giải quyết vấn đề kỹ thuật và kiểm tra sự phù hợp của spec, plan, regulation và standards
+Kiểm tra (Inspection): phát hiện lỗi tiềm năng, ngăn chặn lỗi tương tự trong tương lai
+				Thực hiện theo 1 quy trình xác định với đầu ra được ghi lại chính thức: dựa vào các luật và checklist
+				Cá nhân được yêu cầu chuẩn bị trước khi review.Các roles trong buổi review phải được xác định rõ ràng
+	Được điều hành bởi moderator
+	Sử dụng để xác định các vai trò trong quy trình.
+	Xác định vai trò của từng người
+	Xác định các tiêu chuẩn đầu vào và ra cho của sản phẩm phần mềm
+	Cần có báo cáo kiểm tra bao gồm danh sách của các phát hiện defect,..
+	Có Quy trình follow- up
+	Mục đích chính: tìm kiếm defects
+	Các số liệu được tập hợp và phân tích để tối ưu hóa quy trình

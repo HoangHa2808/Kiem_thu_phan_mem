@@ -1,0 +1,174 @@
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.exe
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.deps.json
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.runtimeconfig.json
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.dll
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.pdb
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.AssemblyReference.cache
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.AddProduct.resources
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.CustomDesign.TextBoxCD.resources
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fLogin.resources
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fProduct.resources
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fReport.resources
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fSell.resources
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fStaff.resources
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fTransaction.resources
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fTransactionProduct.resources
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.Properties.Resources.resources
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.GenerateResource.cache
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.GeneratedMSBuildEditorConfig.editorconfig
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.AssemblyInfoInputs.cache
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.AssemblyInfo.cs
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.CoreCompileInputs.cache
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.CopyComplete
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.dll
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\refint\QuanLyCuaHangMyPham.dll
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.pdb
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.genruntimeconfig.cache
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\ref\QuanLyCuaHangMyPham.dll
+G:\HK2 2021-2022 (2)\Mon DoAnCoSo\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fBill.resources
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.exe
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.deps.json
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.runtimeconfig.json
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.dll
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\ref\QuanLyCuaHangMyPham.dll
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.pdb
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.AddProduct.resources
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.CustomDesign.TextBoxCD.resources
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fBill.resources
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fBillInfor.resources
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fLogin.resources
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fProduct.resources
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fReport.resources
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fSell.resources
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fStaff.resources
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fTransaction.resources
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fTransactionProduct.resources
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.Properties.Resources.resources
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.GenerateResource.cache
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.AssemblyInfoInputs.cache
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.AssemblyInfo.cs
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.CoreCompileInputs.cache
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.CopyComplete
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.dll
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\ref\QuanLyCuaHangMyPham.dll
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.pdb
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.genruntimeconfig.cache
+C:\Users\NHTV\Desktop\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.AssemblyReference.cache
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.exe
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.deps.json
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.runtimeconfig.json
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.pdb
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.AssemblyReference.cache
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.AddProduct.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.CustomDesign.TextBoxCD.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fBill.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fBillInfor.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fLogin.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fProduct.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fReport.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fSell.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fStaff.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fTransaction.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fTransactionProduct.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.Properties.Resources.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.GenerateResource.cache
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.AssemblyInfoInputs.cache
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.AssemblyInfo.cs
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.CoreCompileInputs.cache
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.CopyComplete
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\refint\QuanLyCuaHangMyPham.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.pdb
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.genruntimeconfig.cache
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab01.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\ref\QuanLyCuaHangMyPham.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.exe
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.deps.json
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.runtimeconfig.json
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.pdb
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.AssemblyReference.cache
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.AddProduct.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.CustomDesign.TextBoxCD.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fBill.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fBillInfor.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fLogin.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fProduct.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fReport.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fSell.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fStaff.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fTransaction.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fTransactionProduct.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.Properties.Resources.resources
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.GenerateResource.cache
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.AssemblyInfoInputs.cache
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.AssemblyInfo.cs
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.CoreCompileInputs.cache
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.CopyComplete
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\refint\QuanLyCuaHangMyPham.dll
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.pdb
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.genruntimeconfig.cache
+C:\Users\NHTV\Desktop\KiemThuPhanMem\Labs\Lab02.2\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\ref\QuanLyCuaHangMyPham.dll
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.exe
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.deps.json
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.runtimeconfig.json
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.dll
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\QuanLyCuaHangMyPham.pdb
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.AssemblyReference.cache
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.AddProduct.resources
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.CustomDesign.TextBoxCD.resources
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fBill.resources
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fBillInfor.resources
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fLogin.resources
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fProduct.resources
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fReport.resources
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fSell.resources
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fStaff.resources
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fTransaction.resources
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.fTransactionProduct.resources
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.Properties.Resources.resources
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.GenerateResource.cache
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.AssemblyInfoInputs.cache
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.AssemblyInfo.cs
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.CoreCompileInputs.cache
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.csproj.CopyComplete
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.dll
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\refint\QuanLyCuaHangMyPham.dll
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.pdb
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\QuanLyCuaHangMyPham.genruntimeconfig.cache
+C:\Users\Nhat Ha\Downloads\Nhom10\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\QuanLyCuaHangMyPham\obj\Debug\net6.0-windows\ref\QuanLyCuaHangMyPham.dll
